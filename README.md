@@ -4,5 +4,4 @@
 - 💞️ I’m looking to collaborate on HEP projects involving ML and NN
 - 📫 Another account: github.com/swas-rathod
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
 
